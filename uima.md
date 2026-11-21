@@ -29,15 +29,19 @@ Then the ENL agent `PastaTrolls` moved back here. He started smashing the spine,
 
 However, with the spine smashed, `__MACHINA__` spread in relatively quickly, and that field was history.
 
-Days later, agent `uima` came back to smash my hack-modded homie. Annoying, but nothing dramatic. That was enough for me to decide to go and smash his own area, then put links through it so he couldn't rethrow his fields. One end was at the end of the spine; the other was in a quiet part of Wimbledon, perhaps a 25-minute walk from what I think is his home area. He went to smash the blockers so he could rethrow his fields, but I got back and rethrew the block before he could do anything. This is when agent `bysekin` appeared out of nowhere, smashed the portal, didn't capture anything around it, and then disappeared. I thought that was a bit odd. Agent `uima` couldn't rethrow his fields.
+Days later, agent `uima` came back to smash my hack-modded homie. Annoying, but nothing dramatic. That was enough for me to decide to go and smash his own area, then put links through it so he couldn't rethrow his fields. One end was at the end of the spine; the other was in a quiet part of Wimbledon, perhaps a 25-minute walk from what I think is his home area. He went to smash the blockers so he could rethrow his fields, but I got back and rethrew the block before he could do anything. This is when agent `bysekin` appeared out of nowhere, smashed the portal, killed the blocker, didn't capture anything around it, and then disappeared. I thought that was a bit odd. Agent `uima` could then rethrow his fields.
 
-I noticed that agents `bysekin` and `uima` shared a banner from Minsk. I wondered whether they knew each other, but the shared banner alone doesn't tell me that.
+I noticed that agents `bysekin` and `uima` shared a banner from Minsk. I wondered whether they knew each other, but the shared banner alone doesn't tell me that. Still strange.
 
 ## The flipped field
 
 :calendar: October 2026
 
 I still had all the keys for the spine, so my next idea was to move the baseline south and build a field going north instead. That would mean less AP, but I could potentially add another 10 portals to the spine relatively easily without affecting other local RES agents. The good thing was that it wouldn't affect `uima` and his _friends_.
+
+## The battle starts
+
+:calendar: Early November 2026
 
 Agent `uima` went to smash agent `Riggs97`'s and Jeannie's homies. As a good local citizen, I went to help rebuild, and that was it. I may have smashed fields that `uima` had created, just normal play for AP and tasks. Anyway, at some point `uima` came to smash my homie. Just the home portal, nothing else. Targeted attack?
 
