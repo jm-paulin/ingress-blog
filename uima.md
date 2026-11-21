@@ -2,6 +2,8 @@
 
 ## The initial field
 
+:calendar: July 2026
+
 It all started when Machina went down in July 2026. That was a good opportunity to start a multilayer field near me, with a potential cell score of 300 kMU.
 
 I picked a couple of anchors for the baseline:
@@ -33,6 +35,8 @@ I noticed that agents `bysekin` and `uima` shared a banner from Minsk. I wondere
 
 ## The flipped field
 
+:calendar: October 2026
+
 I still had all the keys for the spine, so my next idea was to move the baseline south and build a field going north instead. That would mean less AP, but I could potentially add another 10 portals to the spine relatively easily without affecting other local RES agents. The good thing was that it wouldn't affect `uima` and his _friends_.
 
 Agent `uima` went to smash agent `Riggs97`'s and Jeannie's homies. As a good local citizen, I went to help rebuild, and that was it. I may have smashed fields that `uima` had created, just normal play for AP and tasks. Anyway, at some point `uima` came to smash my homie. Just the home portal, nothing else. Targeted attack?
@@ -41,13 +45,17 @@ As usual, I went to smash his home area and threw a five-layer field over it. I 
 
 ## The 4th Agent
 
+:calendar: 14 November 2026
+
 As soon as double AP started, a new ENL agent, `Komsa007`, appeared in `uima`'s playing area. It was pretty obvious this wasn't a newbie. They knew how to glyph, link, and field. With double AP in play, it took them a day to grind to Level 8. What we then noticed was that all the portals in `uima`'s area were Level 8, with two Level 8 resonators from each of `uima`, `play4BY`, `bysekin`, and, of course, `Komsa007`. How strange. We noticed that `uima` and `play4BY` deployed together first, followed by `Komsa007` and `bysekin` deploying together.
 
 Needless to say, those portals got smashed the next day and re-fielded. I then started smashing after `uima` and `play4BY` deployed. I ended up catching up with him at what we can consider his home portal, where both `uima` and `play4BY` captured it and deployed pink shields, or Aegis. I was just using US8s to pop the shields. It lasted about eight minutes, proper anomaly style... except there was only one other person visible, the same as a few months ago, and they totally ignored any invitation to come and say hi. I didn't win the portal, but I didn't expect to. A single agent can't outgun two agents at the same time... Agents? Or should I say a dual-accounting agent playing with two phones?
 
-I suppose he was hoping to drain me of guns, but that didn't happen. My hack-modded P8 gave me enough guns, and the next day it was all back to blue, with five layers over his head.
+I suppose he was hoping to drain me of guns, but that didn't happen. My hack-modded homie gave me enough guns, and the next day it was all back to blue, with five layers over his head.
 
 ## The home flip under his nose...
+
+:calendar: 19 November 2026
 
 With double 8, it was easy for me to get back to Level 8 in a day or so after it was smashed. Besides, `uima`'s work pattern was pretty easy to guess. So I didn't bother with shields. I put two VRMHs, VRHSs, and an ITO- on the portal, knowing full well he would come and smash it. But I was ready, and as soon as he was around the corner, I flipped it. I flipped both homies, even though I couldn't reach them. They're an extra 30-minute walk from him. It was dark, cold, and rainy... That must have been very disappointing.
 
@@ -55,4 +63,8 @@ Nevertheless, he came back the next morning before going to work, and yes, I was
 
 ## The 5th Agent
 
+:calendar: 21 November 2026
+
 But the day after, it was back to fully charged. I couldn't believe it. What was even odder was that a new RES agent, `TGXHere`, deployed another two mods on each of the two portals. RES agent `TGXHere`, Level 2, had only deployed four mods in their entire career, and they both appeared on my homies? What are the odds that this is another `uima` account?
+
+
